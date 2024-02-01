@@ -70,7 +70,7 @@ function App() {
   const ctxValue = {
     items: shoppingCart.items,
     addItemToCart: handleAddItemToCart,
-    updateItemToCart: handleUpdateCartItemQuantity,
+    updateItemTQuantity: handleUpdateCartItemQuantity,
   };
 
   return (
